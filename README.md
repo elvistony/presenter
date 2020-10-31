@@ -15,4 +15,10 @@ A HTML Content Presenter - Making a more visually appealing UI for HTML Content 
 - We're expecting to only pick H1,H2,H3 to be mentioned in the sticky nav bar.
 - On Scrolling through the Content, the Title and Sub Title should be updated (if possible add some animation).
 
+
+### (Feature Requests) 
+- Draw Anywhere board : To be able to use the drawing board anywhere during the slideshow and collapse it when not needed. 
+- Add a P2P link to use alternative devices to draw on screen like [Board-IO](https://github.com/elvistony/board-io)
+
+
 Happy Coding!
